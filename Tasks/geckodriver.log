@@ -1,0 +1,1910 @@
+1715956754851	geckodriver	INFO	Listening on 127.0.0.1:52841
+1715956757934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileIdS8o5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715956758441	Marionette	INFO	Marionette enabled
+1715956758527	Marionette	INFO	Listening on port 52851
+WebDriver BiDi listening on ws://127.0.0.1:52842
+Read port: 52851
+1715956758714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52842/devtools/browser/3487e179-ba55-4dc1-a692-98b9f1e6e523
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d4Vwwu8iHiCDxZ1xzxUGRbEaLZqCebWmAfX3l2eV90k.js line 2 > eval line 1498 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1715956788742	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+te-debugging-port" "61023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilezy5oCR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715956809377	Marionette	INFO	Marionette enabled
+1715956809450	Marionette	INFO	Listening on port 61031
+WebDriver BiDi listening on ws://127.0.0.1:61023
+Read port: 61031
+1715956809628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61023/devtools/browser/b1fc072c-a752-489d-a378-cda07e7ad356
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d4Vwwu8iHiCDxZ1xzxUGRbEaLZqCebWmAfX3l2eV90k.js line 2 > eval line 4779 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1715956821434	Marionette	INFO	Stopped listening on port 61031
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1715956854130	geckodriver	INFO	Listening on 127.0.0.1:61358
+1715956857230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileyJTnbD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715956857649	Marionette	INFO	Marionette enabled
+1715956857722	Marionette	INFO	Listening on port 61367
+WebDriver BiDi listening on ws://127.0.0.1:61359
+Read port: 61367
+1715956857879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61359/devtools/browser/fe6b1d59-dfc4-47e5-a4c0-9f18d4291e9a
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d4Vwwu8iHiCDxZ1xzxUGRbEaLZqCebWmAfX3l2eV90k.js line 2 > eval line 4629 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 82: Script terminated by timeout at:
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:727
+n.Gi@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1941
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+ki/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:320
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Sa.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Ua@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+ki/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+cd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+cd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+hh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Ra.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+hh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Ed.prototype.Ha@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:172
+nd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1027
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Hd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:672
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1715956866856	Marionette	INFO	Stopped listening on port 61367
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1715956883375	geckodriver	INFO	Listening on 127.0.0.1:61682
+1715956886446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofiled9lZxh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715956886751	Marionette	INFO	Marionette enabled
+1715956886817	Marionette	INFO	Listening on port 61691
+WebDriver BiDi listening on ws://127.0.0.1:61683
+Read port: 61691
+1715956886996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61683/devtools/browser/5152b2f5-3272-452f-a149-f3910875916d
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d4Vwwu8iHiCDxZ1xzxUGRbEaLZqCebWmAfX3l2eV90k.js line 2 > eval line 454 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://prebid.a-mo.net/isyn?gdpr=0&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&s=pbs&cb=https%3A%2F%2Fadserv-sgp1.snigelweb.com%2Fpbs%2Fv1%2Fsetuid%3Fbidder%3Damx%26gdpr%3D0%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%24UID, line 2: ReferenceError: __am$CK is not defined
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1715956895289	Marionette	INFO	Stopped listening on port 61691
+Dynamically enable window occlusion 1
+1715956916348	geckodriver	INFO	Listening on 127.0.0.1:61991
+1715956919436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61992" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileGVtEYq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715956919748	Marionette	INFO	Marionette enabled
+1715956919830	Marionette	INFO	Listening on port 62000
+WebDriver BiDi listening on ws://127.0.0.1:61992
+Read port: 62000
+1715956919990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61992/devtools/browser/fd36cc9e-827e-48ee-a349-4cca3b699ad0
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d4Vwwu8iHiCDxZ1xzxUGRbEaLZqCebWmAfX3l2eV90k.js line 2 > eval line 845 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://prebid.a-mo.net/isyn?gdpr=0&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&s=pbs&cb=https%3A%2F%2Fadserv-sgp1.snigelweb.com%2Fpbs%2Fv1%2Fsetuid%3Fbidder%3Damx%26gdpr%3D0%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%24UID, line 2: ReferenceError: __am$CK is not defined
+1715956949884	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+15957181115	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilevIcqAH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715957181550	Marionette	INFO	Marionette enabled
+1715957181615	Marionette	INFO	Listening on port 62335
+WebDriver BiDi listening on ws://127.0.0.1:62327
+Read port: 62335
+1715957181777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62327/devtools/browser/46e46d85-59c5-44e5-a8d9-8b32eb5c3c0c
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d4Vwwu8iHiCDxZ1xzxUGRbEaLZqCebWmAfX3l2eV90k.js line 2 > eval line 7488 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1715957191189	Marionette	INFO	Stopped listening on port 62335
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1715957197293	geckodriver	INFO	Listening on 127.0.0.1:62597
+1715957200349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62598" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileXjD7Yo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715957200821	Marionette	INFO	Marionette enabled
+1715957200927	Marionette	INFO	Listening on port 62607
+WebDriver BiDi listening on ws://127.0.0.1:62598
+Read port: 62607
+1715957201255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62598/devtools/browser/025ec3a5-2d05-46e1-b5bc-ed0432d9bfd8
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d4Vwwu8iHiCDxZ1xzxUGRbEaLZqCebWmAfX3l2eV90k.js line 2 > eval line 6404 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1715957209671	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1715957318163	geckodriver	INFO	Listening on 127.0.0.1:62910
+1715957321243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileJ3pXBj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715957321661	Marionette	INFO	Marionette enabled
+1715957321728	Marionette	INFO	Listening on port 62919
+WebDriver BiDi listening on ws://127.0.0.1:62911
+Read port: 62919
+1715957321880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62911/devtools/browser/c692cec1-f119-45c4-a17e-5017b1eb0c08
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1715957329383	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d4Vwwu8iHiCDxZ1xzxUGRbEaLZqCebWmAfX3l2eV90k.js line 2 > eval line 787 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1715957351788	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1716043729412	geckodriver	INFO	Listening on 127.0.0.1:64641
+1716043732490	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64642" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileeAm49L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716043733096	Marionette	INFO	Marionette enabled
+1716043733197	Marionette	INFO	Listening on port 64651
+WebDriver BiDi listening on ws://127.0.0.1:64642
+Read port: 64651
+1716043733401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64642/devtools/browser/9cd13464-ef99-44d6-afd3-006cf312a8bb
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/d4Vwwu8iHiCDxZ1xzxUGRbEaLZqCebWmAfX3l2eV90k.js line 2 > eval line 6986 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716043741975	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716043763905	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1716138123857	geckodriver	INFO	Listening on 127.0.0.1:62300
+1716138126928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileaa36dG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716138127545	Marionette	INFO	Marionette enabled
+1716138127635	Marionette	INFO	Listening on port 62312
+WebDriver BiDi listening on ws://127.0.0.1:62301
+Read port: 62312
+1716138127738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62301/devtools/browser/5a211aed-b81e-4bdc-9aeb-7561727ff01e
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716138157670	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c, line 211: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:211:158
+cA@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:567:134
+dA/<@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:567:111
+
+1716138183319	Marionette	INFO	Stopped listening on port 62312
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/cfr-srg getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: (new AbortError("IOUtils: Shutting down and refusing additional I/O tasks (NS_ERROR_ABORT)", (void 0), 883))
+JavaScript error: resource://gre/modules/CrashManager.sys.mjs, line 920: AbortError: IOUtils: Shutting down and refusing additional I/O tasks (NS_ERROR_ABORT)
+1716138189077	geckodriver	INFO	Listening on 127.0.0.1:62399
+1716138192139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62400" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilecgUdMX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716138192480	Marionette	INFO	Marionette enabled
+1716138192554	Marionette	INFO	Listening on port 62407
+WebDriver BiDi listening on ws://127.0.0.1:62400
+Read port: 62407
+1716138192808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62400/devtools/browser/f4073af4-707e-4f0b-80c5-165359f935fc
+1716138222688	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.error: ({})
+console.error: ({})
+1716138308275	Marionette	INFO	Stopped listening on port 62407
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/translations-wasm getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1716138315886	geckodriver	INFO	Listening on 127.0.0.1:62527
+1716138318921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62528" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileh6HPnF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716138319267	Marionette	INFO	Marionette enabled
+1716138319340	Marionette	INFO	Listening on port 62536
+WebDriver BiDi listening on ws://127.0.0.1:62528
+Read port: 62536
+1716138319576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62528/devtools/browser/fee48a41-e9ae-4de7-bd5b-c041ffd51268
+1716138349303	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716138457921	Marionette	INFO	Stopped listening on port 62536
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.warn: services.settings: main/search-config-v2 sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/normandy-recipes getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1716138758382	geckodriver	INFO	Listening on 127.0.0.1:62802
+1716138761456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofile2yDEGw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716138761795	Marionette	INFO	Marionette enabled
+1716138761875	Marionette	INFO	Listening on port 62811
+WebDriver BiDi listening on ws://127.0.0.1:62803
+Read port: 62811
+1716138762123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62803/devtools/browser/8309317a-a7ef-4615-9ff7-5f08ba1851b1
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716138791865	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716138801855	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716138806971	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 934 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716139536449	Marionette	INFO	Stopped listening on port 62811
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716142123209	geckodriver	INFO	Listening on 127.0.0.1:63994
+1716142126298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileOkUZLV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716142126996	Marionette	INFO	Marionette enabled
+1716142127089	Marionette	INFO	Listening on port 64004
+WebDriver BiDi listening on ws://127.0.0.1:63995
+Read port: 64004
+1716142127342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63995/devtools/browser/63997bc7-741e-436f-b2d3-94a0446bbcb2
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 7631 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 46: Script terminated by timeout at:
+Ta@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:517
+Ua@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:419
+ki/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+cd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.Ha@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:135
+od.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1316
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Sf.prototype.Ha@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:115:238
+nd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1027
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+cd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+cd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+ki/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:320
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Sa.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Ua@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+ki/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+cd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+cd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+hh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Ra.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+hh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Ed.prototype.Ha@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:172
+nd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1027
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Hd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:672
+
+1716142157036	Marionette	INFO	Stopped listening on port 64004
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716142157181	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2152071198, errorCode: 2, reason: error
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+1716142251351	geckodriver	INFO	Listening on 127.0.0.1:64183
+1716142254415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofile1dqeSe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716142254802	Marionette	INFO	Marionette enabled
+1716142254887	Marionette	INFO	Listening on port 64192
+WebDriver BiDi listening on ws://127.0.0.1:64184
+Read port: 64192
+1716142255119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64184/devtools/browser/c2b66bc0-b8f6-453b-97c7-edd9a4a80e54
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716142284828	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716142290809	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716142305291	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716142305292	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c, line 211: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:211:158
+cA@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:567:134
+dA/<@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:567:111
+
+1716142323441	Marionette	INFO	Stopped listening on port 64192
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716142330459	geckodriver	INFO	Listening on 127.0.0.1:64541
+1716142333533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64542" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilezdK2kG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716142333903	Marionette	INFO	Marionette enabled
+1716142333987	Marionette	INFO	Listening on port 64552
+WebDriver BiDi listening on ws://127.0.0.1:64542
+Read port: 64552
+1716142334260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64542/devtools/browser/42ca4d71-e7d0-4801-8aa2-e476cca923c3
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript error: https://www.w3schools.com/python/python_intro.asp line 2 > injectedScript, line 1: TypeError: e.purpose is undefined
+1716142364586	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 4053 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64900" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileUuzhkt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716142487014	Marionette	INFO	Marionette enabled
+1716142487100	Marionette	INFO	Listening on port 64908
+WebDriver BiDi listening on ws://127.0.0.1:64900
+Read port: 64908
+1716142487372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64900/devtools/browser/0fde3123-abf4-4244-9cd2-183ec7dd0339
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716142517060	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 2609 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Listening on 127.0.0.1:65406
+1716142976445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65407" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileQK117l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716142976985	Marionette	INFO	Marionette enabled
+1716142977076	Marionette	INFO	Listening on port 65414
+WebDriver BiDi listening on ws://127.0.0.1:65407
+Read port: 65414
+1716142977370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65407/devtools/browser/8e710dcf-43a0-43b3-a807-7051608cc56a
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716143007057	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.w3schools.com/python/python_intro.asp, line 2: ReferenceError: osdlfm is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 6134 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://script.4dex.io/localstore.js line 1 > Function, line 4: Script terminated by timeout at:
+Se@https://script.4dex.io/localstore.js line 1 > Function:4:10573
+Ce@https://script.4dex.io/localstore.js line 1 > Function:4:10596
+ke@https://script.4dex.io/localstore.js line 1 > Function:4:11958
+$t@https://script.4dex.io/localstore.js line 1 > Function:4:59533
+anonymous/_ADAGIO</</</e.ADAGIO.queue.push@https://script.4dex.io/localstore.js line 1 > Function:4:70182
+anonymous/_ADAGIO</</</</</<@https://script.4dex.io/localstore.js line 1 > Function:4:68497
+c@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl.js:32:39551
+Mt/</</</<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl.js:24:270598
+em/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl.js:24:59546
+km@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl.js:24:59761
+Mt/</</<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl.js:24:270541
+ax@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl.js:24:122239
+cx/this.next@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl.js:24:122538
+b@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl.js:24:122789
+
+1716143307197	Marionette	INFO	Stopped listening on port 65414
+Dynamically enable window occlusion 1
+1716143313375	geckodriver	INFO	Listening on 127.0.0.1:49728
+1716143316452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49729" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilelHObGJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716143316951	Marionette	INFO	Marionette enabled
+1716143317040	Marionette	INFO	Listening on port 49740
+WebDriver BiDi listening on ws://127.0.0.1:49729
+Read port: 49740
+1716143317313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49729/devtools/browser/b3b4b6f6-9673-4a1e-b1e3-398266e66e5e
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716143347120	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+1716143389244	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716143398620	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716143402477	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716143405366	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716143409672	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716143431482	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1716143490307	geckodriver	INFO	Listening on 127.0.0.1:50308
+1716143493364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileYqn5Rm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716143493841	Marionette	INFO	Marionette enabled
+1716143493923	Marionette	INFO	Listening on port 50318
+WebDriver BiDi listening on ws://127.0.0.1:50309
+Read port: 50318
+1716143494219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50309/devtools/browser/16e7d4b2-0b7a-4247-a95c-69ab58e3b05a
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript error: https://www.w3schools.com/python/python_intro.asp line 2 > injectedScript, line 1: TypeError: e.purpose is undefined
+1716143524020	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716143532945	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716143541334	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1716143552075	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716143552075	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716143552079	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716143567698	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716143572508	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.w3schools.com/python/python_intro.asp, line 2: ReferenceError: osdlfm is not defined
+1716143573097	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716143579682	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716143594260	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c, line 375: Script terminated by timeout at:
+cm@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:375:430
+Mm@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:383:747
+xG/<@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:695:178
+aa.Ok/<@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:643:126
+aa.Ok/c/<@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:642:420
+
+1716143598560	Marionette	INFO	Stopped listening on port 50318
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.error: (new Error("IndexedDB: main/personality-provider-models getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1716143634810	geckodriver	INFO	Listening on 127.0.0.1:50577
+1716143637900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50578" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilewoEq1O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716143638330	Marionette	INFO	Marionette enabled
+1716143638425	Marionette	INFO	Listening on port 50588
+WebDriver BiDi listening on ws://127.0.0.1:50578
+Read port: 50588
+1716143638746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50578/devtools/browser/daec5e6f-f112-4187-b78b-1a7144f2e77f
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716143668812	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716143672848	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.w3schools.com/python/python_intro.asp, line 11: ReferenceError: osdlfm is not defined
+1716143675581	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 5004 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://script.4dex.io/localstore.js line 1 > Function, line 4: Script terminated by timeout at:
+We@https://script.4dex.io/localstore.js line 1 > Function:4:18666
+Qe@https://script.4dex.io/localstore.js line 1 > Function:4:20096
+value@https://script.4dex.io/localstore.js line 1 > Function:4:38595
+Xe@https://script.4dex.io/localstore.js line 1 > Function:4:21298
+
+1716144043132	Marionette	INFO	Stopped listening on port 50588
+Dynamically enable window occlusion 1
+1716144079969	geckodriver	INFO	Listening on 127.0.0.1:51069
+1716144083043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51070" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofile41LhMC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716144083469	Marionette	INFO	Marionette enabled
+1716144083569	Marionette	INFO	Listening on port 51078
+WebDriver BiDi listening on ws://127.0.0.1:51070
+Read port: 51078
+1716144083926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51070/devtools/browser/76418a58-55ee-4b41-9120-e7cea1bf05b9
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716144113663	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.w3schools.com/python/python_intro.asp, line 11: ReferenceError: osdlfm is not defined
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+1716144181606	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716144218486	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716144219216	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716144219600	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+nsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716144523276	Marionette	INFO	Marionette enabled
+1716144523437	Marionette	INFO	Listening on port 51988
+WebDriver BiDi listening on ws://127.0.0.1:51978
+Read port: 51988
+1716144523640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51978/devtools/browser/18731f94-dc18-4a63-a493-a91aa5f0d98c
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716144553557	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1716144573959	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716144573963	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716144573969	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+1716144598840	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716144601011	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716144601055	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 1104 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1716144813950	geckodriver	INFO	Listening on 127.0.0.1:52686
+1716144816996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilejpNwaA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716144817527	Marionette	INFO	Marionette enabled
+1716144817604	Marionette	INFO	Listening on port 52695
+WebDriver BiDi listening on ws://127.0.0.1:52687
+Read port: 52695
+1716144817803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52687/devtools/browser/75c8e6c4-b996-4ceb-b46f-5d2beae2ec4a
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716144847865	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 2286 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1716145026519	geckodriver	INFO	Listening on 127.0.0.1:53014
+1716145029567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileb0cJ7M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716145029951	Marionette	INFO	Marionette enabled
+1716145030031	Marionette	INFO	Listening on port 53023
+WebDriver BiDi listening on ws://127.0.0.1:53015
+Read port: 53023
+1716145030232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53015/devtools/browser/1bdc0256-f125-441c-95eb-01d0944b5949
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716145060114	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 4854 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1716189200235	geckodriver	INFO	Listening on 127.0.0.1:55755
+1716189203373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55756" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileJr19LR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716189203966	Marionette	INFO	Marionette enabled
+1716189204056	Marionette	INFO	Listening on port 55764
+WebDriver BiDi listening on ws://127.0.0.1:55756
+Read port: 55764
+1716189204263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55756/devtools/browser/cc476cd1-12db-4e4d-be72-282ec45e9a92
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://gum.criteo.com/syncframe?origin=publishertag&topUrl=www.w3schools.com&gdpr=0&gdpr_consent=&us_privacy=1---#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22w3schools.com%22,%22topUrl%22:%22www.w3schools.com%22,%22version%22:153,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.3115445498445871%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=www.w3schools.com&gdpr=0&gdpr_consent=&us_privacy=1---#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22w3schools.com%22,%22topUrl%22:%22www.w3schools.com%22,%22version%22:153,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.3115445498445871%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=www.w3schools.com&gdpr=0&gdpr_consent=&us_privacy=1---#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22w3schools.com%22,%22topUrl%22:%22www.w3schools.com%22,%22version%22:153,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.3115445498445871%22}:13:3642
+
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://gum.criteo.com/syncframe?origin=publishertag&topUrl=www.w3schools.com&gdpr=0&gdpr_consent=&us_privacy=1---#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%221gQsFV8zSkhuS0ZqT1VueEI0QSUyQiUyQjg2QU5UQ05jSiUyQmVlbTJhdmlGMlU0dzJLUTRZVDdlT256d2VDdEFBSVpibURZcCUyRkNrMVhFMmx1M2ZvbEVvdEpCMGNRVnVEb1hhV0dPMXdUY3A2ZDRTVUt1djQxeThQSGMySUUlMkYzTEQzdER3YzM1bm0%22,%22origin%22:2},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22w3schools.com%22,%22topUrl%22:%22www.w3schools.com%22,%22version%22:153,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.9584969819621777%22}, line 13: Script terminated by timeout at:
+r.prototype.logPixel@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=www.w3schools.com&gdpr=0&gdpr_consent=&us_privacy=1---#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%221gQsFV8zSkhuS0ZqT1VueEI0QSUyQiUyQjg2QU5UQ05jSiUyQmVlbTJhdmlGMlU0dzJLUTRZVDdlT256d2VDdEFBSVpibURZcCUyRkNrMVhFMmx1M2ZvbEVvdEpCMGNRVnVEb1hhV0dPMXdUY3A2ZDRTVUt1djQxeThQSGMySUUlMkYzTEQzdER3YzM1bm0%22,%22origin%22:2},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22w3schools.com%22,%22topUrl%22:%22www.w3schools.com%22,%22version%22:153,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.9584969819621777%22}:13:3418
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=www.w3schools.com&gdpr=0&gdpr_consent=&us_privacy=1---#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%221gQsFV8zSkhuS0ZqT1VueEI0QSUyQiUyQjg2QU5UQ05jSiUyQmVlbTJhdmlGMlU0dzJLUTRZVDdlT256d2VDdEFBSVpibURZcCUyRkNrMVhFMmx1M2ZvbEVvdEpCMGNRVnVEb1hhV0dPMXdUY3A2ZDRTVUt1djQxeThQSGMySUUlMkYzTEQzdER3YzM1bm0%22,%22origin%22:2},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22w3schools.com%22,%22topUrl%22:%22www.w3schools.com%22,%22version%22:153,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.9584969819621777%22}:13:3152
+r/<@https://gum.criteo.com/syncframe?origin=publishertag&topUrl=www.w3schools.com&gdpr=0&gdpr_consent=&us_privacy=1---#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22value%22:%221gQsFV8zSkhuS0ZqT1VueEI0QSUyQiUyQjg2QU5UQ05jSiUyQmVlbTJhdmlGMlU0dzJLUTRZVDdlT256d2VDdEFBSVpibURZcCUyRkNrMVhFMmx1M2ZvbEVvdEpCMGNRVnVEb1hhV0dPMXdUY3A2ZDRTVUt1djQxeThQSGMySUUlMkYzTEQzdER3YzM1bm0%22,%22origin%22:2},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22w3schools.com%22,%22topUrl%22:%22www.w3schools.com%22,%22version%22:153,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.9584969819621777%22}:13:3642
+
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 4486 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716189234011	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c, line 211: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:211:158
+cA@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:567:134
+dA/<@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:567:111
+
+1716189240525	Marionette	INFO	Stopped listening on port 55764
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716189402023	geckodriver	INFO	Listening on 127.0.0.1:58409
+1716189405096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofile8SLMd1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716189405602	Marionette	INFO	Marionette enabled
+1716189405670	Marionette	INFO	Listening on port 58418
+WebDriver BiDi listening on ws://127.0.0.1:58410
+Read port: 58418
+1716189405877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58410/devtools/browser/5d6a13ad-f9ae-459f-93ff-9bed07df2d1c
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 148 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://tpc.googlesyndication.com/pagead/js/r20240515/r20110914/client/window_focus_fy2021.js, line 6: Script terminated by timeout at:
+u/<@https://tpc.googlesyndication.com/pagead/js/r20240515/r20110914/client/window_focus_fy2021.js:6:1002
+
+1716189420341	Marionette	INFO	Stopped listening on port 58418
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716189433210	geckodriver	INFO	Listening on 127.0.0.1:58719
+1716189436266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileo3t7IV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716189436719	Marionette	INFO	Marionette enabled
+1716189436787	Marionette	INFO	Listening on port 58728
+WebDriver BiDi listening on ws://127.0.0.1:58720
+Read port: 58728
+1716189436995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58720/devtools/browser/da087d06-9c04-4dc5-b7bb-3e82f65964f3
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716189443544	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 729 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl.js, line 24: Script terminated by timeout at:
+hJ@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl.js:24:230631
+LR@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl.js:32:50761
+Fv.prototype.g/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl.js:32:50679
+em/<@https://securepubads.g.doubleclick.net/pagead/managed/js/gpt/m202405090101/pubads_impl.js:24:59546
+
+1716189453304	Marionette	INFO	Stopped listening on port 58728
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716189463317	geckodriver	INFO	Listening on 127.0.0.1:58895
+1716189466406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58896" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilepTDsFV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716189466725	Marionette	INFO	Marionette enabled
+1716189466797	Marionette	INFO	Listening on port 58905
+WebDriver BiDi listening on ws://127.0.0.1:58896
+Read port: 58905
+1716189466967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58896/devtools/browser/e499785a-f82b-43ea-8373-f4d06b728dd5
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 7060 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://prebid.a-mo.net/isyn?gdpr=0&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&s=pbs&cb=https%3A%2F%2Fadserv-sgp1.snigelweb.com%2Fpbs%2Fv1%2Fsetuid%3Fbidder%3Damx%26gdpr%3D0%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%24UID, line 2: ReferenceError: __am$CK is not defined
+1716189497521	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Listening on 127.0.0.1:59179
+1716189508419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59180" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilezkGVVz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716189508770	Marionette	INFO	Marionette enabled
+1716189508849	Marionette	INFO	Listening on port 59196
+WebDriver BiDi listening on ws://127.0.0.1:59180
+Read port: 59196
+1716189509075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59180/devtools/browser/21bb0c1e-19ee-4cc2-a3dd-47c8b8528cf7
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 2759 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716189516697	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716189539099	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1716192910920	geckodriver	INFO	Listening on 127.0.0.1:50646
+1716192913974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilexcpdts"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716192914555	Marionette	INFO	Marionette enabled
+1716192914656	Marionette	INFO	Listening on port 50656
+WebDriver BiDi listening on ws://127.0.0.1:50647
+Read port: 50656
+1716192914879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50647/devtools/browser/808484fa-9615-4c51-b5f2-1b62e7715098
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716192921579	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 1996 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716192945759	geckodriver	INFO	Listening on 127.0.0.1:54904
+1716192948816	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exJavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716193113567	Marionette	INFO	Stopped listening on port 50656
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 3161 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716192979965	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716193114473	Marionette	INFO	Stopped listening on port 54916
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+nette enabled
+1716193000516	Marionette	INFO	Listening on port 55184
+WebDriver BiDi listening on ws://127.0.0.1:55174
+Read port: 55184
+1716193000744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55174/devtools/browser/5320dfef-d54f-42f5-bedc-8310b8bc8e0f
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 856 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716193030551	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716193116534	Marionette	INFO	Stopped listening on port 55184
+Dynamically enable window occlusion 1
+
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716193105538	Marionette	INFO	Marionette enabled
+1716193105613	Marionette	INFO	Listening on port 55505
+WebDriver BiDi listening on ws://127.0.0.1:55497
+Read port: 55505
+1716193105876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55497/devtools/browser/c85f31be-3a6d-4a72-a2c7-02d1cc24b2d1
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 6360 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x37c4d1@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:255
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:1075
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716193119680	Marionette	INFO	Stopped listening on port 55505
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716193160557	geckodriver	INFO	Listening on 127.0.0.1:55701
+1716193163640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55702" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilezr0lEN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716193164003	Marionette	INFO	Marionette enabled
+1716193164074	Marionette	INFO	Listening on port 55710
+WebDriver BiDi listening on ws://127.0.0.1:55702
+Read port: 55710
+1716193164280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55702/devtools/browser/735e07ec-1e5b-46d6-ad69-b0c6804b7ff1
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 3565 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716193194434	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716193199219	Marionette	INFO	Marionette enabled
+1716193199290	Marionette	INFO	Listening on port 56001
+WebDriver BiDi listening on ws://127.0.0.1:55993
+Read port: 56001
+1716193199465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55993/devtools/browser/8323013a-b75a-4d6b-ad6a-b6ca13bdc3b5
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 392 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 269: Script terminated by timeout at:
+jp/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:269:1043
+Td.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:100:1731
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.Ha@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:94:135
+od.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1316
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+cd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+cd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+If.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:113:152
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+cd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+If.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:113:152
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+cd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+ag.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:117:253
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+ki/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:320
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Sa.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Ua@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+ki/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+cd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+cd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+hh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Ra.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+hh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Ed.prototype.Ha@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:172
+nd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1027
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Hd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:672
+
+1716193206983	Marionette	INFO	Stopped listening on port 56001
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716193926167	geckodriver	INFO	Listening on 127.0.0.1:56327
+1716193929259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56328" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileDPWKeB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716193929600	Marionette	INFO	Marionette enabled
+1716193929678	Marionette	INFO	Listening on port 56335
+WebDriver BiDi listening on ws://127.0.0.1:56328
+Read port: 56335
+1716193929921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56328/devtools/browser/81af0c1c-1ea5-4c17-a953-64fc68900500
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 5476 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716193938070	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716193959673	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+"-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilesv5TdD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716194016288	Marionette	INFO	Marionette enabled
+1716194016391	Marionette	INFO	Listening on port 56591
+WebDriver BiDi listening on ws://127.0.0.1:56583
+Read port: 56591
+1716194016659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56583/devtools/browser/dd0961aa-d920-4aba-b8ed-5ab474d4a7f1
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 2604 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716194046527	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c, line 218: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:218:158
+cA@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:574:134
+dA/<@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:574:111
+
+1716194059627	Marionette	INFO	Stopped listening on port 56591
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56772/devtools/browser/089197ce-a2c7-4613-99f2-b5af96ebf489
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c, line 387: Script terminated by timeout at:
+Tm.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:387:62
+xG/<@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:695:142
+aa.Ok/<@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:643:126
+aa.Ok/c/<@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:642:420
+
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1716194060711	Marionette	INFO	Stopped listening on port 56786
+Dynamically enable window occlusion 1
+1716286829237	geckodriver	INFO	Listening on 127.0.0.1:58240
+1716286832328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58241" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileIo571N"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716286832880	Marionette	INFO	Marionette enabled
+1716286832968	Marionette	INFO	Listening on port 58252
+WebDriver BiDi listening on ws://127.0.0.1:58241
+Read port: 58252
+1716286833184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58241/devtools/browser/85f05698-6b3d-42cb-a972-be6edc48b4ff
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 475 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.ampproject.org/rtv/012405101652000/amp4ads-v0.mjs, line 2: Script terminated by timeout at:
+lg@https://cdn.ampproject.org/rtv/012405101652000/amp4ads-v0.mjs:2:180913
+Zm@https://cdn.ampproject.org/rtv/012405101652000/amp4ads-v0.mjs:2:181315
+Wm@https://cdn.ampproject.org/rtv/012405101652000/amp4ads-v0.mjs:2:180729
+fire@https://cdn.ampproject.org/rtv/012405101652000/amp4ads-v0.mjs:2:16321
+di@https://cdn.ampproject.org/rtv/012405101652000/amp4ads-v0.mjs:2:22487
+
+1716286845252	Marionette	INFO	Stopped listening on port 58252
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716287149277	geckodriver	INFO	Listening on 127.0.0.1:65182
+1716287152353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilejULTEn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716287152672	Marionette	INFO	Marionette enabled
+1716287152739	Marionette	INFO	Listening on port 65192
+WebDriver BiDi listening on ws://127.0.0.1:65183
+Read port: 65192
+1716287152901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65183/devtools/browser/f94f79e6-7236-4042-a00c-88595fd65de7
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 2612 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 7573 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716287183277	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1716287357209	geckodriver	INFO	Listening on 127.0.0.1:65494
+1716287360316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65495" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileMUWwpS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716287360633	Marionette	INFO	Marionette enabled
+1716287360705	Marionette	INFO	Listening on port 65504
+WebDriver BiDi listening on ws://127.0.0.1:65495
+Read port: 65504
+1716287360873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65495/devtools/browser/f9fec488-0c1e-4d6e-96fe-b7340b5c5eb5
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript error: https://www.gstatic.com/mysidia/8733e615ae63f08f0b29a0fd78444e27.js?tag=html5_display_upload/html5_exit_api, line 75: ReferenceError: mys is not defined
+JavaScript error: https://37f9549de316f7869b292c2bd4230fb0.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html, line 17: ReferenceError: mys is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 7098 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716287391179	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 451: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 451: TypeError: channel is null
+Exiting due to channel error.
+Exiting due to channel error.
+16288197645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50106" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofile1uvd3m"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716288198101	Marionette	INFO	Marionette enabled
+1716288198173	Marionette	INFO	Listening on port 50113
+WebDriver BiDi listening on ws://127.0.0.1:50106
+Read port: 50113
+1716288198355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50106/devtools/browser/89e6090d-a266-4ab5-abe4-0941675857be
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716288228138	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 7645 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 82: Script terminated by timeout at:
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:820
+n.Gi@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1941
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+ki/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:320
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Sa.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Ua@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+ki/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+hh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Ra.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+hh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Fd.prototype.Ha@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:172
+od.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1027
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Id/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:672
+
+1716288239907	Marionette	INFO	Stopped listening on port 50113
+Dynamically enable window occlusion 1
+1716288432746	geckodriver	INFO	Listening on 127.0.0.1:50437
+1716288435828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilePGwTVn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716288436141	Marionette	INFO	Marionette enabled
+1716288436215	Marionette	INFO	Listening on port 50445
+WebDriver BiDi listening on ws://127.0.0.1:50438
+Read port: 50445
+1716288436402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50438/devtools/browser/db36556c-64f9-4e8c-9e3d-03d86af745fd
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 926 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 46: Script terminated by timeout at:
+Ta/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:612
+Ta@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:594
+Ua@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:419
+h@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:256:1946
+Bo/</m</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:256:2214
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Yf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:116:115
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Sf.prototype.Ha@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:115:238
+od.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1027
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Sf.prototype.Ha@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:115:238
+od.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1027
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+ki/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:320
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Sa.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Ua@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+ki/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+hh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Ra.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+hh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Fd.prototype.Ha@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:172
+od.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1027
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Id/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:672
+
+1716288453413	Marionette	INFO	Stopped listening on port 50445
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716289047715	geckodriver	INFO	Listening on 127.0.0.1:50670
+1716289050792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50671" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilejeHSvG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716289051083	Marionette	INFO	Marionette enabled
+1716289051155	Marionette	INFO	Listening on port 50678
+WebDriver BiDi listening on ws://127.0.0.1:50671
+Read port: 50678
+1716289051336	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50671/devtools/browser/145b7d24-123f-45b1-9eb8-1ff876152bc0
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 6226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716289081367	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716289134376	Marionette	INFO	Stopped listening on port 50678
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50891/devtools/browser/52023c02-fd8a-442a-9fea-5bd7fbb04bc2
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c, line 218: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:218:158
+cA@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:574:134
+dA/<@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:574:111
+
+1716289133322	Marionette	INFO	Stopped listening on port 50899
+Dynamically enable window occlusion 1
+1716289135888	geckodriver	INFO	Listening on 127.0.0.1:51018
+1716289138943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileY0H45d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716289139257	Marionette	INFO	Marionette enabled
+1716289139323	Marionette	INFO	Listening on port 51028
+WebDriver BiDi listening on ws://127.0.0.1:51019
+Read port: 51028
+1716289139507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51019/devtools/browser/e869777d-b79c-4181-86ba-9dacefa932e7
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 5125 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716289169420	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x37c4d1@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:409
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:1075
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716289218835	Marionette	INFO	Stopped listening on port 51028
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+on ws://127.0.0.1:51223
+Read port: 51230
+1716289194151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51223/devtools/browser/d5b23f47-bdc7-4ada-8354-f97d6fa8bebe
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 3061 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c, line 218: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:218:158
+cA@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:574:134
+dA/<@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:574:111
+
+1716289219769	Marionette	INFO	Stopped listening on port 51230
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attemptinJavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+1716289240556	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716289240563	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716289240564	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716289240565	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716289244230	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 6511 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x37c4d1@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:713
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:1075
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716290413346	Marionette	INFO	Stopped listening on port 51387
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+nabled
+1716290054349	Marionette	INFO	Listening on port 51951
+WebDriver BiDi listening on ws://127.0.0.1:51944
+Read port: 51951
+1716290054585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51944/devtools/browser/27744d15-3548-4b5d-b173-ad7819047af1
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716290084443	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.w3schools.com/python/python_intro.asp, line 11: ReferenceError: osdlfm is not defined
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716290414380	Marionette	INFO	Stopped listening on port 51951
+Dynamically enable window occlusion 1
+
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716290123388	Marionette	INFO	Marionette enabled
+1716290123464	Marionette	INFO	Listening on port 52156
+WebDriver BiDi listening on ws://127.0.0.1:52149
+Read port: 52156
+1716290123662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52149/devtools/browser/68b8d4ba-f8ea-49cb-9921-bdd9eea3ca29
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716290139392	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716290153681	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 3274 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716290415362	Marionette	INFO	Stopped listening on port 52156
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716291557489	geckodriver	INFO	Listening on 127.0.0.1:52551
+1716291560582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52552" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofiledyFpdk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716291561037	Marionette	INFO	Marionette enabled
+1716291561110	Marionette	INFO	Listening on port 52560
+WebDriver BiDi listening on ws://127.0.0.1:52552
+Read port: 52560
+1716291561330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52552/devtools/browser/7b44a3bd-5a28-4a69-8476-229aca9595d1
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+JavaScript error: https://assets.a-mo.net/js/cframe.js#gdpr=0&gdpr_consent=&cc=PK, line 1: SecurityError: Permission denied to access property "localStorage" on cross-origin object
+1716291582002	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716291582003	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716291582003	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716291583178	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716291583188	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716291591186	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 3110 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716292869069	Marionette	INFO	Stopped listening on port 52560
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+tening on ws://127.0.0.1:52840
+Read port: 52848
+1716291673313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52840/devtools/browser/fb73d34c-02b4-4d2c-97a3-f5fe174c8467
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716291680404	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716291703059	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.w3schools.com/python/python_intro.asp, line 11: ReferenceError: osdlfm is not defined
+JavaScript error: https://www.w3schools.com/python/python_intro.asp, line 11: ReferenceError: osdlfm is not defined
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716292870170	Marionette	INFO	Stopped listening on port 52848
+Dynamically enable window occlusion 1
+1716293069054	geckodriver	INFO	Listening on 127.0.0.1:53196
+1716293072111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53197" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilecBn1eq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716293072517	Marionette	INFO	Marionette enabled
+1716293072594	Marionette	INFO	Listening on port 53204
+WebDriver BiDi listening on ws://127.0.0.1:53197
+Read port: 53204
+1716293072927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53197/devtools/browser/ae84b903-a4f2-4313-9624-da4679907383
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 626 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716293082297	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716293103363	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716295000121	Marionette	INFO	Stopped listening on port 53204
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+tening on ws://127.0.0.1:53503
+Read port: 53510
+1716293509927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53503/devtools/browser/ca45ae50-a2e5-4cf7-8da8-48001bbde3d7
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 1825 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716293539616	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 264: Script terminated by timeout at:
+Yo@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:264:1398
+Ho<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:265:134
+Td.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:100:1715
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Td.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:100:1806
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:833
+n.Gi@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1941
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:833
+n.Gi@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1941
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:82:833
+n.Gi@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:1941
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Yf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:116:115
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Bo/</h/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:256:1969
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Sa.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:147
+Ua@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+ki/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+kf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:109:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+dd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:88:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+hh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Ra.prototype.ac/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+hh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Fd.prototype.Ha@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:172
+od.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1027
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:899
+Id/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:672
+
+1716293590196	Marionette	INFO	Stopped listening on port 53510
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716294846433	geckodriver	INFO	Listening on 127.0.0.1:54004
+1716294849530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54005" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofile3mBu2O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716294849981	Marionette	INFO	Marionette enabled
+1716294850067	Marionette	INFO	Listening on port 54013
+WebDriver BiDi listening on ws://127.0.0.1:54005
+Read port: 54013
+1716294850318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54005/devtools/browser/95291be3-b81c-4408-8f9b-a628f5f8db55
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716294867594	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716294867602	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716294871955	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716294871958	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716294872954	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716294880006	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 783 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x37c4d1@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:255
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:1075
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716295001923	Marionette	INFO	Stopped listening on port 54013
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54383/devtools/browser/82aab85c-4c74-4142-a683-ec1f900c3672
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 1397 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716294958808	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716294980547	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716294983543	Marionette	INFO	Stopped listening on port 54390
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/search-config-icons sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/search-config-overrides-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/cookie-banner-rules-list getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1716295022858	geckodriver	INFO	Listening on 127.0.0.1:54581
+1716295025947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54582" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofile8BZrh6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716295026409	Marionette	INFO	Marionette enabled
+1716295026480	Marionette	INFO	Listening on port 54589
+WebDriver BiDi listening on ws://127.0.0.1:54582
+Read port: 54589
+1716295026722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54582/devtools/browser/9fb626eb-da73-44f0-8c3d-1d9436aa3828
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716295056614	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 6487 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716295083085	Marionette	INFO	Stopped listening on port 54589
+JavaScript warning: https://script.4dex.io/localstore.js line 1 > Function, line 4: Script terminated by timeout at:
+value/this.intervalId<@https://script.4dex.io/localstore.js line 1 > Function:4:33002
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716295315951	geckodriver	INFO	Listening on 127.0.0.1:54795
+1716295319043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54796" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileN9WSya"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716295319367	Marionette	INFO	Marionette enabled
+1716295319442	Marionette	INFO	Listening on port 54804
+WebDriver BiDi listening on ws://127.0.0.1:54796
+Read port: 54804
+1716295319647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54796/devtools/browser/40185838-527b-4503-bb98-948c46ed3e3a
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716295335538	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716295335543	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 1879 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716295349518	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+1716295873545	geckodriver	INFO	Listening on 127.0.0.1:55146
+1716295876618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofiletBlaz9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716295877054	Marionette	INFO	Marionette enabled
+1716295877145	Marionette	INFO	Listening on port 55156
+WebDriver BiDi listening on ws://127.0.0.1:55147
+Read port: 55156
+1716295877420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55147/devtools/browser/3b0f92bd-b2f9-43ae-a500-87e90b3b46e5
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+1716295887340	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 4386 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716295894039	Marionette	INFO	Stopped listening on port 55156
+JavaScript warning: https://www.w3schools.com/lib/common-deps.js?v=1.0.5, line 292: Script terminated by timeout at:
+_fieldMeetsConditions@https://www.w3schools.com/lib/common-deps.js?v=1.0.5:292:3
+Util.objFieldOnSetCallback/intervalHandler<@https://www.w3schools.com/lib/common-deps.js?v=1.0.5:331:30
+
+JavaScript warning: https://s2.adform.net/mink/631/s2.adform.net/load/v/0.0.245/e/igBBwADA/i/uCAX-4QAAAAAKAAA/r:AdConstructor:contents/ImageTag:types/Standard, line 28: Script terminated by timeout at:
+n@https://s2.adform.net/mink/631/s2.adform.net/load/v/0.0.245/e/igBBwADA/i/uCAX-4QAAAAAKAAA/r:AdConstructor:contents/ImageTag:types/Standard:28:41
+L@https://s2.adform.net/mink/631/s2.adform.net/load/v/0.0.245/e/igBBwADA/i/uCAX-4QAAAAAKAAA/r:AdConstructor:contents/ImageTag:types/Standard:68:165
+e.bind/<@https://s2.adform.net/mink/631/s2.adform.net/load/v/0.0.245/e/igBBwADA/i/uCAX-4QAAAAAKAAA/r:AdConstructor:contents/ImageTag:types/Standard:17:42
+M@https://s2.adform.net/mink/631/s2.adform.net/load/v/0.0.245/e/igBBwADA/i/uCAX-4QAAAAAKAAA/r:AdConstructor:contents/ImageTag:types/Standard:69:337
+e.bind/<@https://s2.adform.net/mink/631/s2.adform.net/load/v/0.0.245/e/igBBwADA/i/uCAX-4QAAAAAKAAA/r:AdConstructor:contents/ImageTag:types/Standard:17:42
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716296026259	geckodriver	INFO	Listening on 127.0.0.1:58015
+1716296029314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58016" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileHtSCS1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716296029630	Marionette	INFO	Marionette enabled
+1716296029710	Marionette	INFO	Listening on port 58023
+WebDriver BiDi listening on ws://127.0.0.1:58016
+Read port: 58023
+1716296029915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58016/devtools/browser/160325f9-2b72-4de9-8f3d-053d518cf098
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 6973 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://prebid.a-mo.net/isyn?gdpr=0&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&s=pbs&cb=https%3A%2F%2Fadserv-sgp1.snigelweb.com%2Fpbs%2Fv1%2Fsetuid%3Fbidder%3Damx%26gdpr%3D0%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%24UID, line 2: ReferenceError: __am$CK is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 5142 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716296059683	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+fox.exe" "--marionette" "--remote-debugging-port" "58357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileiSNLSi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716296347070	Marionette	INFO	Marionette enabled
+1716296347149	Marionette	INFO	Listening on port 58366
+WebDriver BiDi listening on ws://127.0.0.1:58357
+Read port: 58366
+1716296347409	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58357/devtools/browser/bae67a5e-16d4-49d6-b4c5-2beb2ea3a77e
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 3041 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716296377101	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c, line 218: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:218:158
+cA@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:574:134
+dA/<@https://www.googletagmanager.com/gtag/js?id=G-9YNMTB56NB&l=dataLayer&cx=c:574:111
+
+1716296900139	Marionette	INFO	Stopped listening on port 58366
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58653/devtools/browser/0f98b3ad-fb96-4e65-8ee7-e0bf4c24ed3a
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 2593 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716296764325	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716296899111	Marionette	INFO	Stopped listening on port 58660
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+nette enabled
+1716296871279	Marionette	INFO	Listening on port 58968
+WebDriver BiDi listening on ws://127.0.0.1:58958
+Read port: 58968
+1716296871524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58958/devtools/browser/eea2d1b3-2dd0-4302-b660-b6e30c0b00b7
+1716296898176	Marionette	INFO	Stopped listening on port 58968
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58982" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileq4Ak1U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716296877485	Marionette	INFO	Marionette enabled
+1716296877572	Marionette	INFO	Listening on port 58997
+WebDriver BiDi listening on ws://127.0.0.1:58982
+Read port: 58997
+1716296877839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58982/devtools/browser/d35a07cb-3159-4331-a1c7-ebd432934bce
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 4505 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js, line 14: Script terminated by timeout at:
+_0x4957@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:90
+_0x373e12@https://cdn.confiant-integrations.net/gptprebidnative/202403121239/wrap.js:14:2009
+
+1716296901872	Marionette	INFO	Stopped listening on port 58997
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1716296928396	geckodriver	INFO	Listening on 127.0.0.1:59172
+1716296931471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileSXeNAO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716296931939	Marionette	INFO	Marionette enabled
+1716296932018	Marionette	INFO	Listening on port 59180
+WebDriver BiDi listening on ws://127.0.0.1:59173
+Read port: 59180
+1716296932261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59173/devtools/browser/4b85103d-c950-4042-ac16-560f9a1cb41d
+1716296962900	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileOukVEx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716296938307	Marionette	INFO	Marionette enabled
+1716296938386	Marionette	INFO	Listening on port 59208
+WebDriver BiDi listening on ws://127.0.0.1:59191
+Read port: 59208
+1716296938648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59191/devtools/browser/9f6d3d82-03b8-4145-8437-3c4f0dcad4ea
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 7699 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716296968337	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1716297000424	geckodriver	INFO	Listening on 127.0.0.1:59523
+1716297003495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59524" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilenasUhn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716297003847	Marionette	INFO	Marionette enabled
+1716297003937	Marionette	INFO	Listening on port 59532
+WebDriver BiDi listening on ws://127.0.0.1:59524
+Read port: 59532
+1716297004223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59524/devtools/browser/1668261d-ffb1-4baf-9048-83e9e6c0f4f5
+1716297035815	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilelPfjuF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716297010108	Marionette	INFO	Marionette enabled
+1716297010195	Marionette	INFO	Listening on port 59571
+WebDriver BiDi listening on ws://127.0.0.1:59550
+Read port: 59571
+1716297010464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59550/devtools/browser/c295d3bf-c579-4a61-aad3-52bff3eb3d75
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 3633 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://prebid.a-mo.net/isyn?gdpr=0&gdpr_consent=&us_privacy=1---&gpp=&gpp_sid=&s=pbs&cb=https%3A%2F%2Fadserv-sgp1.snigelweb.com%2Fpbs%2Fv1%2Fsetuid%3Fbidder%3Damx%26gdpr%3D0%26gdpr_consent%3D%26gpp%3D%26gpp_sid%3D%26f%3Db%26uid%3D%24UID, line 2: ReferenceError: __am$CK is not defined
+1716297042260	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1716297073140	geckodriver	INFO	Listening on 127.0.0.1:59861
+1716297076183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59862" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileHsMwGA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716297076678	Marionette	INFO	Marionette enabled
+1716297076793	Marionette	INFO	Listening on port 59869
+WebDriver BiDi listening on ws://127.0.0.1:59862
+Read port: 59869
+1716297077145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59862/devtools/browser/d100cc62-b7ac-40af-89e3-1206d4e409a2
+1716297106730	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileOJDHLg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716297082936	Marionette	INFO	Marionette enabled
+1716297083013	Marionette	INFO	Listening on port 59903
+WebDriver BiDi listening on ws://127.0.0.1:59880
+Read port: 59903
+1716297083226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59880/devtools/browser/4536595f-0072-4d5f-823b-46ebbc843633
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 3569 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716297114712	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1716297595093	geckodriver	INFO	Listening on 127.0.0.1:60149
+1716297598139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60150" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilemNjYke"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716297598465	Marionette	INFO	Marionette enabled
+1716297598545	Marionette	INFO	Listening on port 60158
+Read port: 60158
+WebDriver BiDi listening on ws://127.0.0.1:60150
+1716297598640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60150/devtools/browser/1fe457df-55af-4a95-aba6-d09a16de8758
+1716297630150	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileYybBhd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1716297605714	Marionette	INFO	Marionette enabled
+1716297605856	Marionette	INFO	Listening on port 60190
+WebDriver BiDi listening on ws://127.0.0.1:60168
+Read port: 60190
+1716297606189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60168/devtools/browser/6f58e64a-a6c2-4593-9549-820cfaf6c8d6
+JavaScript warning: https://www.w3schools.com/lib/w3schools_footer.js?update=20230706, line 313: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KIlBSkU31qDrTOGEEdbu4Jd3Q1as5fnUZJOm3lcT5kM.js line 2 > eval line 217 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1716297614870	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1716297636338	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

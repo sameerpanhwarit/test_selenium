@@ -1,0 +1,74 @@
+1719235846215	geckodriver	INFO	Listening on 127.0.0.1:52045
+1719235849272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52046" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofile7GaEeU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719235849893	Marionette	INFO	Marionette enabled
+1719235850065	Marionette	INFO	Listening on port 52064
+WebDriver BiDi listening on ws://127.0.0.1:52046
+Read port: 52064
+1719235850294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52046/devtools/browser/efafe20a-bb45-4587-ab87-5c7824cf35d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/smrf-loader/resources_1.1.15/smrf.js, line 1: Error: Error: 0
+1719235880271	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719237613176	Marionette	INFO	Stopped listening on port 52064
+Dynamically enable window occlusion 1
+ote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719236213020	Marionette	INFO	Marionette enabled
+1719236213149	Marionette	INFO	Listening on port 52243
+WebDriver BiDi listening on ws://127.0.0.1:52224
+Read port: 52243
+1719236213398	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52224/devtools/browser/d9e80668-3dee-45b6-b975-eb8d854747be
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-bundles-main/resources_1.120.5-10/common-0.js, line 8: ModuleError: Failed to resolve dependencies of 'sap/sf/adminhomepage/admintools/AdminToolsPortlet.view.js'
+ -> 'sap/sf/surj/shell/controls/SearchInput.js'
+  -> 'sap/sf/surj/shell/controls/SearchResult.js'
+   -> 'sap/sf/surj/shell/controls/UserPhoto.js': failed to execute module factory for ''sap/sf/surj/shell/controls/UserPhoto.js'': sap.sf.surj.shell.controls.UserPhotoSrc is not a defined type
+1719236243042	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719237613895	Marionette	INFO	Stopped listening on port 52243
+Dynamically enable window occlusion 1
+ote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719236915475	Marionette	INFO	Marionette enabled
+1719236915645	Marionette	INFO	Listening on port 52597
+WebDriver BiDi listening on ws://127.0.0.1:52579
+Read port: 52597
+1719236915897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52579/devtools/browser/070f4b47-71d9-41fb-ade8-5ca8112ca720
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/smrf-loader/resources_1.1.15/smrf.js, line 1: Error: Error: 0
+1719236945762	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719237615054	Marionette	INFO	Stopped listening on port 52597
+Dynamically enable window occlusion 1
+1719391593909	geckodriver	INFO	Listening on 127.0.0.1:63150
+1719391596935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileMUniSh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719391597500	Marionette	INFO	Marionette enabled
+1719391597634	Marionette	INFO	Listening on port 63170
+Read port: 63170
+WebDriver BiDi listening on ws://127.0.0.1:63151
+1719391597739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63151/devtools/browser/1c1ba476-bafb-4148-be6e-8e87c9e8d1be
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/perflog-lib/resources_1.0.21/perflog-lib.min.js, line 1: uncaught exception: Object
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-bundles-main/resources_1.120.5-10/common-0.js line 8 > eval, line 11: TypeError: t is undefined
+JavaScript error: , line 0: TypeError: error loading dynamically imported module: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/shellbar/resources_2.14.3/dist/resources/Shellbar-256f7f3b.js
+1719391627538	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719392234252	Marionette	INFO	Stopped listening on port 63170
+Dynamically enable window occlusion 1

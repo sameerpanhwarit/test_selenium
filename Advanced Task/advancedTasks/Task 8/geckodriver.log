@@ -1,0 +1,813 @@
+1719229926654	geckodriver	INFO	Listening on 127.0.0.1:64685
+1719229929726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64686" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilebWW0l0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719229930386	Marionette	INFO	Marionette enabled
+1719229930557	Marionette	INFO	Listening on port 64702
+WebDriver BiDi listening on ws://127.0.0.1:64686
+Read port: 64702
+1719229930874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64686/devtools/browser/f8c89a66-9247-4d29-899f-bd008e770c43
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: , line 0: TypeError: error loading dynamically imported module: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/shellbar/resources_2.14.3/dist/resources/Shellbar-256f7f3b.js
+JavaScript error: , line 0: TypeError: error loading dynamically imported module: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/shellbar/resources_2.14.3/dist/resources/OpenUI5Support-cec5697b.js
+JavaScript error: , line 0: uncaught exception: Object
+1719229960558	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719229987230	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+1719230078026	Marionette	INFO	Stopped listening on port 64702
+Dynamically enable window occlusion 1
+1719241984164	geckodriver	INFO	Listening on 127.0.0.1:57491
+1719241987223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57492" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilecVDJ9e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719241987775	Marionette	INFO	Marionette enabled
+1719241987971	Marionette	INFO	Listening on port 57519
+WebDriver BiDi listening on ws://127.0.0.1:57492
+Read port: 57519
+1719241988258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57492/devtools/browser/9393aabf-3de2-4720-90d8-40d427d111e9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+1719242017832	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719242074825	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+1719242127536	Marionette	INFO	Stopped listening on port 57519
+Dynamically enable window occlusion 1
+1719388087939	geckodriver	INFO	Listening on 127.0.0.1:57821
+1719388091006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57822" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilevKW2Jp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719388091663	Marionette	INFO	Marionette enabled
+1719388091820	Marionette	INFO	Listening on port 57854
+WebDriver BiDi listening on ws://127.0.0.1:57822
+Read port: 57854
+1719388092096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57822/devtools/browser/66ef389e-a647-47dc-b3bc-fc47987ec475
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/smrf-loader/resources_1.1.15/smrf.js, line 1: Error: Error: 0
+1719388121697	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/shellbar/resources_2.14.3/dist/resources/bundle.esm.js, line 830: Script terminated by timeout at:
+Xa@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/shellbar/resources_2.14.3/dist/resources/bundle.esm.js:830:66
+Ot@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/shellbar/resources_2.14.3/dist/resources/bundle.esm.js:837:10
+Dl@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/shellbar/resources_2.14.3/dist/resources/bundle.esm.js:4593:6
+@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/shellbar/resources_2.14.3/dist/resources/bundle.esm.js:4628:3
+
+JavaScript error: , line 0: uncaught exception: undefined
+1719388128391	Marionette	INFO	Stopped listening on port 57854
+Dynamically enable window occlusion 1
+1719392125458	geckodriver	INFO	Listening on 127.0.0.1:63778
+1719392128497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilexXgBB5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719392129059	Marionette	INFO	Marionette enabled
+1719392129211	Marionette	INFO	Listening on port 63806
+WebDriver BiDi listening on ws://127.0.0.1:63779
+Read port: 63806
+1719392129461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63779/devtools/browser/4321620e-0799-4305-93e7-c88f09119a02
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-bundles-main/resources_1.120.5-10/common-0.js, line 8: ModuleError: Failed to resolve dependencies of 'sap/sf/adminhomepage/admintools/AdminToolsPortlet.view.js'
+ -> 'sap/sf/surj/shell/controls/SearchInput.js'
+  -> 'sap/sf/surj/shell/controls/SearchResult.js'
+   -> 'sap/sf/surj/shell/controls/UserPhoto.js': failed to execute module factory for ''sap/sf/surj/shell/controls/UserPhoto.js'': sap.sf.surj.shell.controls.UserPhotoSrc is not a defined type
+1719392159264	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719392194633	Marionette	INFO	Stopped listening on port 63806
+Dynamically enable window occlusion 1
+1719415695709	geckodriver	INFO	Listening on 127.0.0.1:64106
+1719415698737	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileL4Z3C0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719415699130	Marionette	INFO	Marionette enabled
+1719415699253	Marionette	INFO	Listening on port 64129
+WebDriver BiDi listening on ws://127.0.0.1:64107
+Read port: 64129
+1719415699534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64107/devtools/browser/cb134171-3424-48c2-8d9e-edea09721aeb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-bundles-main/resources_1.120.5-10/common-0.js, line 8: ModuleError: Failed to resolve dependencies of 'sap/sf/adminhomepage/portlets/HighChartsPortlet.controller.js'
+ -> 'sap/sf/adminhomepage/portlets/charts.js'
+  -> 'extlib/highcharts/highcharts.js': failed to load 'extlib/highcharts/highcharts.js' from /verp/vmod_v1/ui/extlib/highcharts_10.3.1_sf.2/highcharts.js
+1719415730002	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719415745833	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+1719416302236	Marionette	INFO	Stopped listening on port 64129
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64210" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileaeJWTw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719415798556	Marionette	INFO	Marionette enabled
+1719415798682	Marionette	INFO	Listening on port 64228
+WebDriver BiDi listening on ws://127.0.0.1:64210
+Read port: 64228
+1719415798966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64210/devtools/browser/0b1979f7-c2db-4cc8-976a-aac9b86e06aa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-bundles-main/resources_1.120.5-10/common-0.js, line 8: ModuleError: Failed to resolve dependencies of 'sap/sf/adminhomepage/framework/AdminHomepage.view.js'
+ -> 'sap/sf/adminhomepage/framework/PortletLayout.js': 
+1719415828604	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719415854157	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+1719415866328	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+1719415889896	Marionette	INFO	Stopped listening on port 64228
+Dynamically enable window occlusion 1
+1719415994337	geckodriver	INFO	Listening on 127.0.0.1:64346
+1719415997386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64347" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileYjykK4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719415997794	Marionette	INFO	Marionette enabled
+1719415997918	Marionette	INFO	Listening on port 64367
+WebDriver BiDi listening on ws://127.0.0.1:64347
+Read port: 64367
+1719415998167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64347/devtools/browser/e697bd1e-fa5a-4a14-9f18-7b1c5fd443de
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/smrf-loader/resources_1.1.15/smrf.js, line 1: Error: Error: 0
+1719416028695	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719416048129	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+1719416059887	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js line 10 > eval, line 1: TypeError: this._oDialog is undefined
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719416303279	Marionette	INFO	Stopped listening on port 64367
+Dynamically enable window occlusion 1
+1719416532547	geckodriver	INFO	Listening on 127.0.0.1:64721
+1719416535632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64722" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofile3dZKgf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719416536184	Marionette	INFO	Marionette enabled
+1719416536348	Marionette	INFO	Listening on port 64741
+WebDriver BiDi listening on ws://127.0.0.1:64722
+Read port: 64741
+1719416536656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64722/devtools/browser/86a5ea41-ac6a-4d66-9759-98f58a121a6b
+1719416566674	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719416593030	Marionette	INFO	Stopped listening on port 64741
+Dynamically enable window occlusion 1
+1719416602507	geckodriver	INFO	Listening on 127.0.0.1:63850
+1719416605563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileCTUcX1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719416606042	Marionette	INFO	Marionette enabled
+1719416606217	Marionette	INFO	Listening on port 63875
+WebDriver BiDi listening on ws://127.0.0.1:63851
+Read port: 63875
+1719416606520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63851/devtools/browser/357800c6-f3b4-4b29-b219-372d32bc60d6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/smrf-loader/resources_1.1.15/smrf.js, line 1: Error: Error: 0
+1719416636166	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719416672156	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+1719416684902	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+Exiting due to channel error.
+Exiting due to channel error.
+1719416779015	geckodriver	INFO	Listening on 127.0.0.1:64029
+1719416782068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64030" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileCsDEVf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719416782482	Marionette	INFO	Marionette enabled
+1719416782615	Marionette	INFO	Listening on port 64051
+WebDriver BiDi listening on ws://127.0.0.1:64030
+Read port: 64051
+1719416782863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64030/devtools/browser/ce2b1e98-dcdf-412e-81ca-ab9658215417
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-bundles-main/resources_1.120.5-10/common-0.js, line 8: ModuleError: Failed to resolve dependencies of 'sap/sf/adminhomepage/framework/AdminHomepage.view.js'
+ -> 'sap/sf/adminhomepage/framework/PortletLayout.js': 
+1719416812672	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719416856129	Marionette	INFO	Stopped listening on port 64051
+Dynamically enable window occlusion 1
+1719416874039	geckodriver	INFO	Listening on 127.0.0.1:64129
+1719416877093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64130" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileTdSl67"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719416877472	Marionette	INFO	Marionette enabled
+1719416877595	Marionette	INFO	Listening on port 64147
+Read port: 64147
+WebDriver BiDi listening on ws://127.0.0.1:64130
+1719416877705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64130/devtools/browser/ad7ca8c7-3342-4eda-96c5-6ac5cebe1fb0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/smrf-loader/resources_1.1.15/smrf.js, line 1: Error: Error: 0
+1719416907761	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719416947045	Marionette	INFO	Stopped listening on port 64147
+Dynamically enable window occlusion 1
+1719416992211	geckodriver	INFO	Listening on 127.0.0.1:64245
+1719416995262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64246" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilehL3izn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719416995738	Marionette	INFO	Marionette enabled
+1719416995856	Marionette	INFO	Listening on port 64264
+WebDriver BiDi listening on ws://127.0.0.1:64246
+Read port: 64264
+1719416996071	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64246/devtools/browser/23511ccb-38a2-401b-ac2d-f47800993287
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-bundles-main/resources_1.120.5-10/common-0.js, line 8: ModuleError: Failed to resolve dependencies of 'sap/sf/adminhomepage/framework/AdminHomepage.view.js'
+ -> 'extlib/rem/rem.js': failed to load 'extlib/rem/rem.js' from /verp/vmod_v1/ui/extlib/rem_1.3.2/rem.js
+1719417025776	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719417077103	Marionette	INFO	Stopped listening on port 64264
+Dynamically enable window occlusion 1
+1719417173838	geckodriver	INFO	Listening on 127.0.0.1:64393
+1719417176893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileGMc1RI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719417177284	Marionette	INFO	Marionette enabled
+1719417177406	Marionette	INFO	Listening on port 64410
+WebDriver BiDi listening on ws://127.0.0.1:64394
+Read port: 64410
+1719417177675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64394/devtools/browser/e773c660-1520-499d-9617-a217ad2c6dbb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/smrf-loader/resources_1.1.15/smrf.js, line 1: Error: Error: 0
+1719417207309	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719417251073	Marionette	INFO	Stopped listening on port 64410
+Dynamically enable window occlusion 1
+1719417330794	geckodriver	INFO	Listening on 127.0.0.1:64539
+1719417333833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64540" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilehwckMj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719417334228	Marionette	INFO	Marionette enabled
+1719417334358	Marionette	INFO	Listening on port 64559
+WebDriver BiDi listening on ws://127.0.0.1:64540
+Read port: 64559
+1719417334611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64540/devtools/browser/43585366-83ea-430b-ad87-57b9c1877859
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/smrf-loader/resources_1.1.15/smrf.js, line 1: Error: Error: 0
+1719417364534	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719417402092	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+1719417414166	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+1719417419686	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+Q.prototype.send@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/perflog-lib/resources_1.0.21/perflog-lib.min.js:1:16647
+Et/c</<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/elastic_5.5.0/elastic-apm-rum.umd.min.js:1:12352
+$/r[e]@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/elastic_5.5.0/elastic-apm-rum.umd.min.js:1:11004
+t/construct/get/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:434:1909
+n/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:270:2150
+e@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:428:233
+r@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:428:1093
+n@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:270:895
+t@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:305:173
+i.loadResource@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:181:2360
+g@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sfgrp/js/SURJStartup_f071ca025328eca44e1bbcac871ccd31.js:1:6552
+getManifest@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:536:7872
+_loadResourceBundle@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:536:9154
+$.prototype.getLibraryResourceBundle@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:476:19208
+n._Interface/a/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:422:1013
+showPendingChangesPopUp@https://hcm41preview.sapsf.com/ui/onboarding2/resources_6FFC42092DA4E796F289F0879E2B785A/sap/sf/onboarding2/common/util/ControllerUtil.js?eval:1:121
+checkForPendingChanges@https://hcm41preview.sapsf.com/ui/onboarding2/resources_8E87713DA42280AA570C9D3535C1A024/sap/sf/onboarding2/admin/common/BaseController.js?eval:1:6708
+onBeforeNavigation@https://hcm41preview.sapsf.com/ui/onboarding2/resources_8E87713DA42280AA570C9D3535C1A024/sap/sf/onboarding2/admin/settings/onb2WhatToBringSettings.controller.js?eval:1:12947
+onCancelWhatToBringSettingsDialog@https://hcm41preview.sapsf.com/ui/onboarding2/resources_8E87713DA42280AA570C9D3535C1A024/sap/sf/onboarding2/admin/settings/onb2WhatToBringSettings.controller.js?eval:1:10212
+i.prototype.fireEvent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:371:2243
+c.prototype.fireEvent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:482:4029
+T.prototype.generate/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:404:14097
+S.prototype.ontap@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/m/library-preload.js?eval:206:6819
+c.prototype._handleEvent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:482:1758
+N.prototype._handleEvent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:623:2477
+dispatch@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:43090
+c@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:1144:11224
+d@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:1144:12090
+dispatch@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:43090
+add/v.handle@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:41074
+trigger@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:71513
+trigger/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:72108
+each@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:2976
+each@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:1454
+trigger@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:72084
+j@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:1144:8431
+L@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:1144:8517
+dispatch@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:43090
+add/v.handle@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:41074
+1719417422944	Marionette	INFO	Stopped listening on port 64559
+Dynamically enable window occlusion 1
+1719417519533	geckodriver	INFO	Listening on 127.0.0.1:60659
+1719417522581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60660" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilewL8959"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719417523016	Marionette	INFO	Marionette enabled
+1719417523146	Marionette	INFO	Listening on port 60674
+WebDriver BiDi listening on ws://127.0.0.1:60660
+Read port: 60674
+1719417523416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60660/devtools/browser/5c4f3940-d28b-436c-a7de-f6b53ee98c98
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-bundles-main/resources_1.120.5-10/common-0.js, line 8: ModuleError: Failed to resolve dependencies of 'sap/sf/adminhomepage/framework/AdminHomepage.view.js'
+ -> 'extlib/rem/rem.js': failed to load 'extlib/rem/rem.js' from /verp/vmod_v1/ui/extlib/rem_1.3.2/rem.js
+1719417553070	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719417592922	Marionette	INFO	Stopped listening on port 60674
+Dynamically enable window occlusion 1
+1719417616851	geckodriver	INFO	Listening on 127.0.0.1:60762
+1719417619875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileo1Qh8G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719417620336	Marionette	INFO	Marionette enabled
+1719417620481	Marionette	INFO	Listening on port 60811
+Read port: 60811
+WebDriver BiDi listening on ws://127.0.0.1:60763
+1719417620583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60763/devtools/browser/0901c3ee-9927-4ce4-b0f7-2f9feed1fccf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/smrf-loader/resources_1.1.15/smrf.js, line 1: Error: Error: 0
+1719417650446	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719417684613	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+1719417690287	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+Q.prototype.send@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/perflog-lib/resources_1.0.21/perflog-lib.min.js:1:16647
+Et/c</<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/elastic_5.5.0/elastic-apm-rum.umd.min.js:1:12352
+$/r[e]@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/elastic_5.5.0/elastic-apm-rum.umd.min.js:1:11004
+t/construct/get/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:434:1909
+n/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:270:2150
+e@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:428:233
+r@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:428:1093
+n@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:270:895
+t@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:305:173
+i.loadResource@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:181:2360
+g@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sfgrp/js/SURJStartup_f071ca025328eca44e1bbcac871ccd31.js:1:6552
+r.create@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:193:1858
+x@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:89:4935
+L@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:89:4592
+_@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:89:2379
+_.create@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:89:6055
+_loadResourceBundle@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:536:9501
+$.prototype.getLibraryResourceBundle@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:476:19208
+n._Interface/a/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:422:1013
+showPendingChangesPopUp@https://hcm41preview.sapsf.com/ui/onboarding2/resources_6FFC42092DA4E796F289F0879E2B785A/sap/sf/onboarding2/common/util/ControllerUtil.js?eval:1:121
+checkForPendingChanges@https://hcm41preview.sapsf.com/ui/onboarding2/resources_8E87713DA42280AA570C9D3535C1A024/sap/sf/onboarding2/admin/common/BaseController.js?eval:1:6708
+onBeforeNavigation@https://hcm41preview.sapsf.com/ui/onboarding2/resources_8E87713DA42280AA570C9D3535C1A024/sap/sf/onboarding2/admin/settings/onb2WhatToBringSettings.controller.js?eval:1:12947
+onCancelWhatToBringSettingsDialog@https://hcm41preview.sapsf.com/ui/onboarding2/resources_8E87713DA42280AA570C9D3535C1A024/sap/sf/onboarding2/admin/settings/onb2WhatToBringSettings.controller.js?eval:1:10212
+i.prototype.fireEvent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:371:2243
+c.prototype.fireEvent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:482:4029
+T.prototype.generate/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:404:14097
+S.prototype.ontap@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/m/library-preload.js?eval:206:6819
+c.prototype._handleEvent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:482:1758
+N.prototype._handleEvent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:623:2477
+dispatch@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:43090
+c@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:1144:11224
+d@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:1144:12090
+dispatch@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:43090
+add/v.handle@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:41074
+trigger@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:71513
+trigger/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:72108
+each@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:2976
+each@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:1454
+trigger@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:72084
+j@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:1144:8431
+L@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:1144:8517
+dispatch@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:43090
+add/v.handle@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:41074
+
+1719417691058	Marionette	INFO	Stopped listening on port 60811
+Dynamically enable window occlusion 1
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js line 10 > eval, line 724: TypeError: document.location is null
+JavaScript error: chrome://remote/content/marionette/interaction.sys.mjs, line 451: TypeError: can't access dead object
+1719417742213	geckodriver	INFO	Listening on 127.0.0.1:60410
+1719417745268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60411" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileSNmdT3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719417745693	Marionette	INFO	Marionette enabled
+1719417745831	Marionette	INFO	Listening on port 60427
+WebDriver BiDi listening on ws://127.0.0.1:60411
+Read port: 60427
+1719417746111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60411/devtools/browser/756327c5-d878-495d-95d2-55651a958cf4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/smrf-loader/resources_1.1.15/smrf.js, line 1: Error: Error: 0
+1719417775771	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719417837338	Marionette	INFO	Stopped listening on port 60427
+Dynamically enable window occlusion 1
+1719422292923	geckodriver	INFO	Listening on 127.0.0.1:52932
+1719422295985	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52933" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileDc4kxZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719422296537	Marionette	INFO	Marionette enabled
+1719422296692	Marionette	INFO	Listening on port 52957
+WebDriver BiDi listening on ws://127.0.0.1:52933
+Read port: 52957
+1719422296989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52933/devtools/browser/28c230a1-1da1-456d-95d5-66830cba96e8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+1719422326687	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-bundles-main/resources_1.120.5-10/common-0.js, line 8: ModuleError: Failed to resolve dependencies of 'sap/sf/adminhomepage/framework/AdminHomepage.view.js'
+ -> 'sap/sf/adminhomepage/framework/PortletLayout.js': 
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+Q.prototype.send@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/perflog-lib/resources_1.0.21/perflog-lib.min.js:1:16647
+t/construct/get/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:434:1909
+je@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:10:9596
+qe@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:10:13289
+Oe@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:10:15314
+De@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:10:16908
+Me@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:10:17980
+@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/uxap/ObjectPageLayout.js?eval:6:8
+Ie@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:10:14403
+qe@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:10:13387
+Se@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:10:19331
+ne@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:784:8302
+ie@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:784:11813
+re@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:784:10746
+Y@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:784:16425
+n@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:784:1919
+ae@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:784:17487
+ee/D<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:784:7405
+r.prototype.then/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:428:1652
+e@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:428:233
+r@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:428:1093
+r.prototype.then@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:428:1630
+ee@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:784:7382
+j@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:784:5949
+U.parseTemplatePromise@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:784:2933
+U.parseTemplate@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:784:2830
+y.runWithPreprocessors@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:398:4511
+r@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1141:7411
+b.prototype.onControllerConnected@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1141:7515
+u@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1123:5407
+d.prototype._initCompositeSupport@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1123:5883
+constructor/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:398:2741
+constructor@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:398:2861
+constructor@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:482:1195
+constructor@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:544:1081
+c@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:416:4419
+c@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:416:4419
+I@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1123:11828
+b@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1123:10971
+t@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1267:204
+y.runWithOwner@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:398:4722
+k.prototype.runAsOwner@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:446:5141
+_getObjectWithGlobalId@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1267:349
+_getViewWithGlobalId@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1267:615
+_getView@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1213:2576
+_get@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1213:2341
+_place@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1261:1024
+_place@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/m/library-preload.js?eval:3304:127
+display@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1261:209
+_displaySingleTarget@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1273:416
+_displaySingleTarget@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/m/library-preload.js?eval:3310:534
+_display@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1273:298
+_display@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/m/library-preload.js?eval:3310:169
+_routeMatched@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1255:1090
+constructor/</<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1189:1710
+execute@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:2628:272
+dispatch@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:2628:2705
+n/this.dispatch@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:2628:1077
+parse@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:2581:1825
+parse@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1195:2366
+initialize@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1195:3605
+initialize@https://hcm41preview.sapsf.com/ui/onboarding2/resources_8E87713DA42280AA570C9D3535C1A024/sap/sf/onboarding2/admin/common/routing/Router.js?eval:1:294
+init@https://hcm41preview.sapsf.com/ui/onboarding2/resources_8E87713DA42280AA570C9D3535C1A024/sap/sf/onboarding2/admin/Component.js?eval:1:344
+constructor/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:398:2779
+constructor@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:398:2861
+constructor@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:446:2805
+constructor@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:748:662
+c@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:416:4419
+p@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:446:26481
+q@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:446:27843
+sap.ui.component@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:446:24119
+n@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:446:11812
+y.runWithOwner@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:398:4722
+k.prototype.runAsOwner@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:446:5141
+k._createComponent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:446:11977
+p.prototype._createComponent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:520:3473
+p.prototype.onBeforeRendering@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:520:3678
+c.prototype._handleEvent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:482:1758
+z@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:566:6657
+J@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:566:7034
+A/this.renderControl@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:566:8570
+renderer/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sap.sf.surj.shell/resources_1.5.33/sap/sf/surj/shell/library-preload.js?eval:15:1861
+each@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:2976
+renderer@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sap.sf.surj.shell/resources_1.5.33/sap/sf/surj/shell/library-preload.js?eval:15:1824
+J@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:566:7570
+A/this.renderControl@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:566:8570
+t.render/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/m/library-preload.js?eval:1225:640
+t.render@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/m/library-preload.js?eval:1225:568
+J@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:566:7570
+A/this.renderControl@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:566:8570
+renderer@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sap.sf.surj.shell/resources_1.5.33/sap/sf/surj/shell/library-preload.js?eval:17:635
+J@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:566:7570
+A/this.renderControl@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:566:8570
+t.render@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:1099:317
+J@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:566:7446
+A/this.renderControl@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:566:8534
+p.prototype.render@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:748:6547
+e.render@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/core/library-preload.js?eval:526:449
+J@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:566:7446
+A/this.renderControl@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:566:8534
+A/this.render@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:566:11232
+N.prototype.rerender@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:606:7029
+U@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:578:1053
+e@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:434:863
+
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js, line 10: ModuleError: Failed to resolve dependencies of 'sap/uxap/ObjectPageLayout.js'
+ -> 'sap/uxap/ObjectPageLayoutABHelper.js': failed to load 'sap/uxap/ObjectPageLayoutABHelper.js' from /verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/uxap/ObjectPageLayoutABHelper.js
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:357:17
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:357:17\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n"
+1719422408178	Marionette	INFO	Stopped listening on port 52957
+Dynamically enable window occlusion 1
+1719422435801	geckodriver	INFO	Listening on 127.0.0.1:53039
+1719422438836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53040" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilejbKR3B"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719422439312	Marionette	INFO	Marionette enabled
+1719422439434	Marionette	INFO	Listening on port 53062
+WebDriver BiDi listening on ws://127.0.0.1:53040
+Read port: 53062
+1719422439669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53040/devtools/browser/5bf8f006-7ca1-4d3e-bdcc-52aaa1b724ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+1719422469350	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-bundles-main/resources_1.120.5-10/common-0.js, line 8: ModuleError: Failed to resolve dependencies of 'sap/sf/adminhomepage/framework/AdminHomepage.view.js'
+ -> 'sap/sf/adminhomepage/framework/PortletLayout.js'
+  -> 'sap/sf/core-utils/surj.js': failed to load 'sap/sf/core-utils/surj.js' from /verp/vmod_v1/ui/core-utils/resources_2.3.20/surj.js
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719422555457	Marionette	INFO	Stopped listening on port 53062
+Dynamically enable window occlusion 1
+1719422598130	geckodriver	INFO	Listening on 127.0.0.1:53153
+1719422601210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilenhl8ip"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719422601602	Marionette	INFO	Marionette enabled
+1719422601728	Marionette	INFO	Listening on port 53175
+WebDriver BiDi listening on ws://127.0.0.1:53154
+Read port: 53175
+1719422601986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53154/devtools/browser/9cf0a864-ce37-4b37-8e07-2555fb95ead7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+1719422632781	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719422657137	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+1719422674713	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+Q.prototype.send@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/perflog-lib/resources_1.0.21/perflog-lib.min.js:1:16647
+Et/c</<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/elastic_5.5.0/elastic-apm-rum.umd.min.js:1:12352
+$/r[e]@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/elastic_5.5.0/elastic-apm-rum.umd.min.js:1:11004
+t/construct/get/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:434:1909
+n/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:270:2150
+e@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:428:233
+r@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:428:1093
+n@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:270:895
+t@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:305:173
+i.loadResource@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:181:2360
+g@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sfgrp/js/SURJStartup_f071ca025328eca44e1bbcac871ccd31.js:1:6552
+getManifest@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:536:7872
+_loadResourceBundle@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:536:9154
+$.prototype.getLibraryResourceBundle@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:476:19208
+n._Interface/a/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:422:1013
+showPendingChangesPopUp@https://hcm41preview.sapsf.com/ui/onboarding2/resources_6FFC42092DA4E796F289F0879E2B785A/sap/sf/onboarding2/common/util/ControllerUtil.js?eval:1:121
+checkForPendingChanges@https://hcm41preview.sapsf.com/ui/onboarding2/resources_8E87713DA42280AA570C9D3535C1A024/sap/sf/onboarding2/admin/common/BaseController.js?eval:1:6708
+onBeforeNavigation@https://hcm41preview.sapsf.com/ui/onboarding2/resources_8E87713DA42280AA570C9D3535C1A024/sap/sf/onboarding2/admin/settings/onb2WhatToBringSettings.controller.js?eval:1:12947
+onCancelWhatToBringSettingsDialog@https://hcm41preview.sapsf.com/ui/onboarding2/resources_8E87713DA42280AA570C9D3535C1A024/sap/sf/onboarding2/admin/settings/onb2WhatToBringSettings.controller.js?eval:1:10212
+i.prototype.fireEvent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:371:2243
+c.prototype.fireEvent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:482:4029
+T.prototype.generate/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:404:14097
+S.prototype.ontap@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/m/library-preload.js?eval:206:6819
+c.prototype._handleEvent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:482:1758
+N.prototype._handleEvent@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:623:2477
+dispatch@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:43090
+c@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:1144:11224
+d@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:1144:12090
+dispatch@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:43090
+add/v.handle@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:41074
+trigger@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:71513
+trigger/<@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:72108
+each@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:2976
+each@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:1454
+trigger@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:72084
+j@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:1144:8431
+L@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js:1144:8517
+dispatch@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:43090
+add/v.handle@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/extlib/jquery_3.5.1/jquery.js:2:41074
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719422678937	Marionette	INFO	Stopped listening on port 53175
+Dynamically enable window occlusion 1
+1719422756880	geckodriver	INFO	Listening on 127.0.0.1:53325
+1719422759957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53326" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilesoVweT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719422760311	Marionette	INFO	Marionette enabled
+1719422760451	Marionette	INFO	Listening on port 53348
+WebDriver BiDi listening on ws://127.0.0.1:53326
+Read port: 53348
+1719422760707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53326/devtools/browser/3b549724-28f2-46f6-94ff-99e47bb6cdae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+1719422790362	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719422825743	Marionette	INFO	Stopped listening on port 53348
+Dynamically enable window occlusion 1
+1719422856317	geckodriver	INFO	Listening on 127.0.0.1:53454
+1719422859353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileBtMEc7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719422859861	Marionette	INFO	Marionette enabled
+1719422860009	Marionette	INFO	Listening on port 53474
+WebDriver BiDi listening on ws://127.0.0.1:53455
+Read port: 53474
+1719422860285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53455/devtools/browser/e25c1dbf-3136-4aa7-8b30-0d78d57f30da
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/smrf-loader/resources_1.1.15/smrf.js, line 1: Error: Error: 0
+1719422890513	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719422927595	Marionette	INFO	Stopped listening on port 53474
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1719423003156	geckodriver	INFO	Listening on 127.0.0.1:53551
+1719423006229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53552" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofile0hk7aO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719423006613	Marionette	INFO	Marionette enabled
+1719423006744	Marionette	INFO	Listening on port 53572
+WebDriver BiDi listening on ws://127.0.0.1:53552
+Read port: 53572
+1719423007032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53552/devtools/browser/64ff5331-1a5b-49f4-bbfe-1d11a4b9e8b4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-bundles-main/resources_1.120.5-10/common-0.js, line 8: ModuleError: Failed to resolve dependencies of 'sap/sf/adminhomepage/framework/AdminHomepage.view.js'
+ -> 'sap/sf/adminhomepage/framework/PortletLayout.js'
+  -> 'sap/sf/core-utils/surj.js': failed to load 'sap/sf/core-utils/surj.js' from /verp/vmod_v1/ui/core-utils/resources_2.3.20/surj.js
+1719423036870	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:912:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:817:38
+
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:357:17
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:569:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:357:17\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:569:17\n"
+1719423083183	Marionette	INFO	Stopped listening on port 53572
+Dynamically enable window occlusion 1
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap-ui-core-nojQuery.js, line 10: ModuleError: Failed to resolve dependencies of 'sap/uxap/ObjectPageLayout.js'
+ -> 'sap/uxap/ObjectPageLayoutABHelper.js'
+  -> 'sap/m/Menu.js'
+   -> 'sap/ui/unified/Menu.js': failed to load 'sap/ui/unified/Menu.js' from /verp/vmod_v1/ui/sapui5-main/resources_1.120.5/resources/sap/ui/unified/Menu.js: A network error occurred.
+1719423091476	geckodriver	INFO	Listening on 127.0.0.1:53692
+1719423094546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileUzZ8YW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719423094936	Marionette	INFO	Marionette enabled
+1719423095076	Marionette	INFO	Listening on port 53712
+WebDriver BiDi listening on ws://127.0.0.1:53693
+Read port: 53712
+1719423095356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53693/devtools/browser/e0754b55-16f7-49ca-9a40-04c108e8ff48
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/smrf-loader/resources_1.1.15/smrf.js, line 1: Error: Error: 0
+1719423125196	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719423151496	Marionette	INFO	Stopped listening on port 53712
+Dynamically enable window occlusion 1
+1719423230846	geckodriver	INFO	Listening on 127.0.0.1:53848
+1719423233947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofileoEZEoS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719423234311	Marionette	INFO	Marionette enabled
+1719423234465	Marionette	INFO	Listening on port 53866
+WebDriver BiDi listening on ws://127.0.0.1:53849
+Read port: 53866
+1719423234765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53849/devtools/browser/d426a760-91db-414d-96f7-ba21545c9c3b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+JavaScript error: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/smrf-loader/resources_1.1.15/smrf.js, line 1: Error: Error: 0
+1719423264348	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719423296305	Marionette	INFO	Stopped listening on port 53866
+Dynamically enable window occlusion 1
+1719423314686	geckodriver	INFO	Listening on 127.0.0.1:53942
+1719423317749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SAMEER~1\\AppData\\Local\\Temp\\rust_mozprofilezii6yx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1719423318167	Marionette	INFO	Marionette enabled
+1719423318316	Marionette	INFO	Listening on port 53959
+WebDriver BiDi listening on ws://127.0.0.1:53943
+Read port: 53959
+1719423318614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53943/devtools/browser/add972e8-2dd3-47ce-b4a0-7442fb62e401
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://hcm41preview.sapsf.com."
+1719423349015	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1719423390214	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:467:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:220:33
+JavaScript warning: https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js, line 1: Script terminated by timeout at:
+dwr.engine._unloader@https://hcm41preview.sapsf.com/verp/vmod_v1/ui/ajaxservice/js/engine_39685afe0d8a211affe849073ef54a77.js:1:19586
+
+1719423409672	Marionette	INFO	Stopped listening on port 53959
+Dynamically enable window occlusion 1
